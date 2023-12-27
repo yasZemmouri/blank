@@ -1,5 +1,5 @@
 <?php
-    $language = 'en';
+    include '../includes/config.php';
 ?>
 <!DOCTYPE html>
 <html lang="<?=$language?>">
